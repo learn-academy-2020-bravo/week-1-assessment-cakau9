@@ -12,7 +12,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 2. What is the difference between map and filter?
 
-  Your answer:
+  Your answer: Map is a method that goes through an entire array and gives back a new array with the same amount of indexes.  A filter method gives us a specifc place in the index and will return a shorter array than a method because it's filtering.
 
   Researched answer:
 
